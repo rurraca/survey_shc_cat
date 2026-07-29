@@ -1,12 +1,12 @@
 # SHC Survey Postprocessing
 
-Scripts for postprocessing a dataset of survey responses from Catalan citizens on second-hand clothing (SHC) consumption. This repository accompanies the manuscript **[Manuscript Title]** (submitted to **[Journal Name]**, 2026).
+Scripts for postprocessing a dataset of survey responses from Catalan citizens on second-hand clothing (SHC) consumption. 
+
 
 ## Overview
 
-This repository contains the R scripts used to clean, transform, and prepare the raw survey data for the statistical analyses reported in the publication.
+This repository contains the R scripts used to clean, transform, and prepare the raw survey data for the statistical analyses.
 
-It does **not** include the raw survey instrument or participant-level identifiable data; only de-identified, processed outputs are provided, in line with our data-sharing agreement.
 
 ## Repository Structure
 
