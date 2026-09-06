@@ -1,6 +1,6 @@
 # SHC Survey Postprocessing
 
-Scripts for postprocessing a dataset of survey responses from Catalan citizens on second-hand clothing (SHC) consumption. 
+Scripts for analyzing survey responses from Catalan citizens on second-hand clothing (SHC) consumption. 
 
 
 ## Overview
@@ -11,15 +11,13 @@ This repository contains the R scripts used to clean, transform, and prepare the
 ## Repository Structure
 
 ```text
-.
-├── data/
-│   ├── raw/                      # Raw survey export 
-│   └── proc/                     # Subsample
+.               # Subsample
 ├── scripts/
 │   ├── subsampling/              # Scripts to create the subsample representative of Catalonian population
-├── outputs/                     
-│   ├── figures/                  # Plots
-│   └── tables/                   # Tables 
+│   ├── descriptive/                # Scripts for descriptive statistics and bi-variate associations.
+│   ├── lca/                             # Scripts to identify consumer profiles with latent class analysis
+├── out/                                   # Tables 
+├── figs/                                  # Plots
 └── README.md
 ```
 
@@ -30,6 +28,9 @@ This repository contains the R scripts used to clean, transform, and prepare the
 ### Key packages
 
 * `tidyverse` — data wrangling
+* `lpSolve ` — quota sampling
+* `poLCA` — Latent Class Analysis 
+* `rstatix` — statistical tests
 
 ## Data Availability
 
@@ -37,4 +38,4 @@ The raw survey data is described and available at https://dataverse.csuc.cat/dat
 
 ## Citation
 
-Morell-Delgado, Gemma; Urraca, Ruben; Talens Peiró, Laura; Toboso-Chavero, Susana, 2026, "Second-hand clothing consumption among the Catalan population", https://doi.org/10.34810/DATA3531, CORA.Repositori de Dades de Recerca, V1
+Morell-Delgado, Gemma; Urraca, Ruben; Talens Peiró, Laura; Toboso-Chavero, Susana, 2026, "Motivations, barriers, and consumer profiles in second-hand clothing consumption", under review
