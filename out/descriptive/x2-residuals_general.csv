@@ -1,0 +1,286 @@
+cov_cat,var_cat,residual,significant,var,cov,p,sig,var_type
+Man,Buy,-2.736601030386471,TRUE,Second-hand purchase,Q18_gender,1.6985544046782876e-6,**,general
+Woman,Buy,2.595199513524468,TRUE,Second-hand purchase,Q18_gender,1.6985544046782876e-6,**,general
+Man,Don't buy,2.2201967168243764,TRUE,Second-hand purchase,Q18_gender,1.6985544046782876e-6,*,general
+Woman,Don't buy,-2.1054780640119586,TRUE,Second-hand purchase,Q18_gender,1.6985544046782876e-6,*,general
+16-34,Buy,3.8017199181738506,TRUE,Second-hand purchase,Q19_age,4.419774229908978e-11,***,general
+35-54,Buy,-0.1896336946126863,FALSE,Second-hand purchase,Q19_age,4.419774229908978e-11,,general
+≥ 55,Buy,-3.777275801681303,TRUE,Second-hand purchase,Q19_age,4.419774229908978e-11,***,general
+16-34,Don't buy,-3.084324673890596,TRUE,Second-hand purchase,Q19_age,4.419774229908978e-11,**,general
+35-54,Don't buy,0.15384928292558028,FALSE,Second-hand purchase,Q19_age,4.419774229908978e-11,,general
+≥ 55,Don't buy,3.0644932309510446,TRUE,Second-hand purchase,Q19_age,4.419774229908978e-11,**,general
+"[17,000, 36,000)",Buy,0.9328152459419422,FALSE,Second-hand purchase,Q21_annual_gross_salary,4.046162754271187e-6,,general
+"< 17,000",Buy,2.2833225338169325,TRUE,Second-hand purchase,Q21_annual_gross_salary,4.046162754271187e-6,*,general
+"≥ 36,000",Buy,-2.982220762342494,TRUE,Second-hand purchase,Q21_annual_gross_salary,4.046162754271187e-6,**,general
+"[17,000, 36,000)",Don't buy,-0.756790384658865,FALSE,Second-hand purchase,Q21_annual_gross_salary,4.046162754271187e-6,,general
+"< 17,000",Don't buy,-1.852453147807063,FALSE,Second-hand purchase,Q21_annual_gross_salary,4.046162754271187e-6,,general
+"≥ 36,000",Don't buy,2.419467314336002,TRUE,Second-hand purchase,Q21_annual_gross_salary,4.046162754271187e-6,*,general
+Rural,Buy,-0.4167206210273671,FALSE,Second-hand purchase,Q22B_degurba,0.00462507798751255,,general
+Town and suburb,Buy,-1.9667618662591044,TRUE,Second-hand purchase,Q22B_degurba,0.00462507798751255,*,general
+Urban,Buy,1.5628931358564846,FALSE,Second-hand purchase,Q22B_degurba,0.00462507798751255,,general
+Rural,Don't buy,0.33808426744154074,FALSE,Second-hand purchase,Q22B_degurba,0.00462507798751255,,general
+Town and suburb,Don't buy,1.5956283688262676,FALSE,Second-hand purchase,Q22B_degurba,0.00462507798751255,,general
+Urban,Don't buy,-1.267970804091193,FALSE,Second-hand purchase,Q22B_degurba,0.00462507798751255,,general
+Barcelona,Buy,NA,FALSE,Second-hand purchase,Q22C_province,0.13659321300578867,,general
+Girona,Buy,NA,FALSE,Second-hand purchase,Q22C_province,0.13659321300578867,,general
+Lleida,Buy,NA,FALSE,Second-hand purchase,Q22C_province,0.13659321300578867,,general
+Tarragona,Buy,NA,FALSE,Second-hand purchase,Q22C_province,0.13659321300578867,,general
+Barcelona,Don't buy,NA,FALSE,Second-hand purchase,Q22C_province,0.13659321300578867,,general
+Girona,Don't buy,NA,FALSE,Second-hand purchase,Q22C_province,0.13659321300578867,,general
+Lleida,Don't buy,NA,FALSE,Second-hand purchase,Q22C_province,0.13659321300578867,,general
+Tarragona,Don't buy,NA,FALSE,Second-hand purchase,Q22C_province,0.13659321300578867,,general
+Man,Don't use,2.34666011992266,TRUE,Second-hand use,Q18_gender,3.103106506972107e-5,*,general
+Woman,Don't use,-2.2254070410733204,TRUE,Second-hand use,Q18_gender,3.103106506972107e-5,*,general
+Man,Use,-1.984491414543346,TRUE,Second-hand use,Q18_gender,3.103106506972107e-5,*,general
+Woman,Use,1.8819517702545951,FALSE,Second-hand use,Q18_gender,3.103106506972107e-5,,general
+16-34,Don't use,-4.23297768175209,TRUE,Second-hand use,Q19_age,2.616065057763687e-12,***,general
+35-54,Don't use,0.7766823319889241,FALSE,Second-hand use,Q19_age,2.616065057763687e-12,,general
+≥ 55,Don't use,3.5464347758195327,TRUE,Second-hand use,Q19_age,2.616065057763687e-12,***,general
+16-34,Use,3.5796866346658964,TRUE,Second-hand use,Q19_age,2.616065057763687e-12,***,general
+35-54,Use,-0.6568140850794884,FALSE,Second-hand use,Q19_age,2.616065057763687e-12,,general
+≥ 55,Use,-2.999100425793135,TRUE,Second-hand use,Q19_age,2.616065057763687e-12,**,general
+"[17,000, 36,000)",Don't use,-1.5859270186750607,FALSE,Second-hand use,Q21_annual_gross_salary,2.169446174967112e-11,,general
+"< 17,000",Don't use,-2.8621591252713348,TRUE,Second-hand use,Q21_annual_gross_salary,2.169446174967112e-11,**,general
+"≥ 36,000",Don't use,4.233758563073291,TRUE,Second-hand use,Q21_annual_gross_salary,2.169446174967112e-11,***,general
+"[17,000, 36,000)",Use,1.3411650566408857,FALSE,Second-hand use,Q21_annual_gross_salary,2.169446174967112e-11,,general
+"< 17,000",Use,2.4204315584248524,TRUE,Second-hand use,Q21_annual_gross_salary,2.169446174967112e-11,*,general
+"≥ 36,000",Use,-3.5803469996947075,TRUE,Second-hand use,Q21_annual_gross_salary,2.169446174967112e-11,***,general
+Rural,Don't use,NA,FALSE,Second-hand use,Q22B_degurba,0.21866010746357875,,general
+Town and suburb,Don't use,NA,FALSE,Second-hand use,Q22B_degurba,0.21866010746357875,,general
+Urban,Don't use,NA,FALSE,Second-hand use,Q22B_degurba,0.21866010746357875,,general
+Rural,Use,NA,FALSE,Second-hand use,Q22B_degurba,0.21866010746357875,,general
+Town and suburb,Use,NA,FALSE,Second-hand use,Q22B_degurba,0.21866010746357875,,general
+Urban,Use,NA,FALSE,Second-hand use,Q22B_degurba,0.21866010746357875,,general
+Barcelona,Don't use,NA,FALSE,Second-hand use,Q22C_province,0.2095896471007151,,general
+Girona,Don't use,NA,FALSE,Second-hand use,Q22C_province,0.2095896471007151,,general
+Lleida,Don't use,NA,FALSE,Second-hand use,Q22C_province,0.2095896471007151,,general
+Tarragona,Don't use,NA,FALSE,Second-hand use,Q22C_province,0.2095896471007151,,general
+Barcelona,Use,NA,FALSE,Second-hand use,Q22C_province,0.2095896471007151,,general
+Girona,Use,NA,FALSE,Second-hand use,Q22C_province,0.2095896471007151,,general
+Lleida,Use,NA,FALSE,Second-hand use,Q22C_province,0.2095896471007151,,general
+Tarragona,Use,NA,FALSE,Second-hand use,Q22C_province,0.2095896471007151,,general
+Man,Less,1.1878011081930582,FALSE,Second-hand vs new quantity,Q18_gender,0.03495201019806757,,general
+Woman,Less,-0.9120755256661904,FALSE,Second-hand vs new quantity,Q18_gender,0.03495201019806757,,general
+Man,More,-1.650070485760805,FALSE,Second-hand vs new quantity,Q18_gender,0.03495201019806757,,general
+Woman,More,1.26703780229336,FALSE,Second-hand vs new quantity,Q18_gender,0.03495201019806757,,general
+Man,Same,-0.2932365496438345,FALSE,Second-hand vs new quantity,Q18_gender,0.03495201019806757,,general
+Woman,Same,0.22516722565430505,FALSE,Second-hand vs new quantity,Q18_gender,0.03495201019806757,,general
+16-34,Less,NA,FALSE,Second-hand vs new quantity,Q19_age,0.2902582852482701,,general
+35-54,Less,NA,FALSE,Second-hand vs new quantity,Q19_age,0.2902582852482701,,general
+≥ 55,Less,NA,FALSE,Second-hand vs new quantity,Q19_age,0.2902582852482701,,general
+16-34,More,NA,FALSE,Second-hand vs new quantity,Q19_age,0.2902582852482701,,general
+35-54,More,NA,FALSE,Second-hand vs new quantity,Q19_age,0.2902582852482701,,general
+≥ 55,More,NA,FALSE,Second-hand vs new quantity,Q19_age,0.2902582852482701,,general
+16-34,Same,NA,FALSE,Second-hand vs new quantity,Q19_age,0.2902582852482701,,general
+35-54,Same,NA,FALSE,Second-hand vs new quantity,Q19_age,0.2902582852482701,,general
+≥ 55,Same,NA,FALSE,Second-hand vs new quantity,Q19_age,0.2902582852482701,,general
+"[17,000, 36,000)",Less,-0.54733451160558,FALSE,Second-hand vs new quantity,Q21_annual_gross_salary,0.02373245603510686,,general
+"< 17,000",Less,-0.8392162239061146,FALSE,Second-hand vs new quantity,Q21_annual_gross_salary,0.02373245603510686,,general
+"≥ 36,000",Less,1.714835839602748,FALSE,Second-hand vs new quantity,Q21_annual_gross_salary,0.02373245603510686,,general
+"[17,000, 36,000)",More,0.17428596111400765,FALSE,Second-hand vs new quantity,Q21_annual_gross_salary,0.02373245603510686,,general
+"< 17,000",More,1.4058826915884828,FALSE,Second-hand vs new quantity,Q21_annual_gross_salary,0.02373245603510686,,general
+"≥ 36,000",More,-1.789378070519478,FALSE,Second-hand vs new quantity,Q21_annual_gross_salary,0.02373245603510686,,general
+"[17,000, 36,000)",Same,0.8665702350017443,FALSE,Second-hand vs new quantity,Q21_annual_gross_salary,0.02373245603510686,,general
+"< 17,000",Same,-0.09243233214254468,FALSE,Second-hand vs new quantity,Q21_annual_gross_salary,0.02373245603510686,,general
+"≥ 36,000",Same,-1.163255152250144,FALSE,Second-hand vs new quantity,Q21_annual_gross_salary,0.02373245603510686,,general
+Rural,Less,0.9739243071845172,FALSE,Second-hand vs new quantity,Q22B_degurba,0.01043772963279037,,general
+Town and suburb,Less,1.3755910306687271,FALSE,Second-hand vs new quantity,Q22B_degurba,0.01043772963279037,,general
+Urban,Less,-1.2042016873153834,FALSE,Second-hand vs new quantity,Q22B_degurba,0.01043772963279037,,general
+Rural,More,-0.06020479406095539,FALSE,Second-hand vs new quantity,Q22B_degurba,0.01043772963279037,,general
+Town and suburb,More,-1.6484464006370247,FALSE,Second-hand vs new quantity,Q22B_degurba,0.01043772963279037,,general
+Urban,More,1.010849632979965,FALSE,Second-hand vs new quantity,Q22B_degurba,0.01043772963279037,,general
+Rural,Same,-1.853888254700226,FALSE,Second-hand vs new quantity,Q22B_degurba,0.01043772963279037,,general
+Town and suburb,Same,-0.6672144994776197,FALSE,Second-hand vs new quantity,Q22B_degurba,0.01043772963279037,,general
+Urban,Same,1.1235166291074878,FALSE,Second-hand vs new quantity,Q22B_degurba,0.01043772963279037,,general
+Barcelona,Less,NA,FALSE,Second-hand vs new quantity,Q22C_province,0.2892175588131722,,general
+Girona,Less,NA,FALSE,Second-hand vs new quantity,Q22C_province,0.2892175588131722,,general
+Lleida,Less,NA,FALSE,Second-hand vs new quantity,Q22C_province,0.2892175588131722,,general
+Tarragona,Less,NA,FALSE,Second-hand vs new quantity,Q22C_province,0.2892175588131722,,general
+Barcelona,More,NA,FALSE,Second-hand vs new quantity,Q22C_province,0.2892175588131722,,general
+Girona,More,NA,FALSE,Second-hand vs new quantity,Q22C_province,0.2892175588131722,,general
+Lleida,More,NA,FALSE,Second-hand vs new quantity,Q22C_province,0.2892175588131722,,general
+Tarragona,More,NA,FALSE,Second-hand vs new quantity,Q22C_province,0.2892175588131722,,general
+Barcelona,Same,NA,FALSE,Second-hand vs new quantity,Q22C_province,0.2892175588131722,,general
+Girona,Same,NA,FALSE,Second-hand vs new quantity,Q22C_province,0.2892175588131722,,general
+Lleida,Same,NA,FALSE,Second-hand vs new quantity,Q22C_province,0.2892175588131722,,general
+Tarragona,Same,NA,FALSE,Second-hand vs new quantity,Q22C_province,0.2892175588131722,,general
+Man,Equal,-0.6215929598805007,FALSE,Purchase channel,Q18_gender,1.249304931196578e-5,,general
+Woman,Equal,0.5867090432833743,FALSE,Purchase channel,Q18_gender,1.249304931196578e-5,,general
+Man,Online,-2.970776027249721,TRUE,Purchase channel,Q18_gender,1.249304931196578e-5,**,general
+Woman,Online,2.8040555045732014,TRUE,Purchase channel,Q18_gender,1.249304931196578e-5,**,general
+Man,Physic ,1.6522154134563791,FALSE,Purchase channel,Q18_gender,1.249304931196578e-5,,general
+Woman,Physic ,-1.559492766316715,FALSE,Purchase channel,Q18_gender,1.249304931196578e-5,,general
+16-34,Equal,1.9645780630137508,TRUE,Purchase channel,Q19_age,3.03508513738575e-12,*,general
+35-54,Equal,1.1141638036251271,FALSE,Purchase channel,Q19_age,3.03508513738575e-12,,general
+≥ 55,Equal,-3.3796035263062727,TRUE,Purchase channel,Q19_age,3.03508513738575e-12,***,general
+16-34,Online,1.2555845400901655,FALSE,Purchase channel,Q19_age,3.03508513738575e-12,,general
+35-54,Online,2.5566241262799903,TRUE,Purchase channel,Q19_age,3.03508513738575e-12,*,general
+≥ 55,Online,-4.310906791385861,TRUE,Purchase channel,Q19_age,3.03508513738575e-12,***,general
+16-34,Physic ,-1.4200039709397243,FALSE,Purchase channel,Q19_age,3.03508513738575e-12,,general
+35-54,Physic ,-1.6675124254636398,FALSE,Purchase channel,Q19_age,3.03508513738575e-12,,general
+≥ 55,Physic ,3.4482062284766166,TRUE,Purchase channel,Q19_age,3.03508513738575e-12,***,general
+"[17,000, 36,000)",Equal,NA,FALSE,Purchase channel,Q21_annual_gross_salary,0.5092378509753804,,general
+"< 17,000",Equal,NA,FALSE,Purchase channel,Q21_annual_gross_salary,0.5092378509753804,,general
+"≥ 36,000",Equal,NA,FALSE,Purchase channel,Q21_annual_gross_salary,0.5092378509753804,,general
+"[17,000, 36,000)",Online,NA,FALSE,Purchase channel,Q21_annual_gross_salary,0.5092378509753804,,general
+"< 17,000",Online,NA,FALSE,Purchase channel,Q21_annual_gross_salary,0.5092378509753804,,general
+"≥ 36,000",Online,NA,FALSE,Purchase channel,Q21_annual_gross_salary,0.5092378509753804,,general
+"[17,000, 36,000)",Physic ,NA,FALSE,Purchase channel,Q21_annual_gross_salary,0.5092378509753804,,general
+"< 17,000",Physic ,NA,FALSE,Purchase channel,Q21_annual_gross_salary,0.5092378509753804,,general
+"≥ 36,000",Physic ,NA,FALSE,Purchase channel,Q21_annual_gross_salary,0.5092378509753804,,general
+Rural,Equal,NA,FALSE,Purchase channel,Q22B_degurba,0.24557590726609904,,general
+Town and suburb,Equal,NA,FALSE,Purchase channel,Q22B_degurba,0.24557590726609904,,general
+Urban,Equal,NA,FALSE,Purchase channel,Q22B_degurba,0.24557590726609904,,general
+Rural,Online,NA,FALSE,Purchase channel,Q22B_degurba,0.24557590726609904,,general
+Town and suburb,Online,NA,FALSE,Purchase channel,Q22B_degurba,0.24557590726609904,,general
+Urban,Online,NA,FALSE,Purchase channel,Q22B_degurba,0.24557590726609904,,general
+Rural,Physic ,NA,FALSE,Purchase channel,Q22B_degurba,0.24557590726609904,,general
+Town and suburb,Physic ,NA,FALSE,Purchase channel,Q22B_degurba,0.24557590726609904,,general
+Urban,Physic ,NA,FALSE,Purchase channel,Q22B_degurba,0.24557590726609904,,general
+Barcelona,Equal,NA,FALSE,Purchase channel,Q22C_province,0.2875229533699339,,general
+Girona,Equal,NA,FALSE,Purchase channel,Q22C_province,0.2875229533699339,,general
+Lleida,Equal,NA,FALSE,Purchase channel,Q22C_province,0.2875229533699339,,general
+Tarragona,Equal,NA,FALSE,Purchase channel,Q22C_province,0.2875229533699339,,general
+Barcelona,Online,NA,FALSE,Purchase channel,Q22C_province,0.2875229533699339,,general
+Girona,Online,NA,FALSE,Purchase channel,Q22C_province,0.2875229533699339,,general
+Lleida,Online,NA,FALSE,Purchase channel,Q22C_province,0.2875229533699339,,general
+Tarragona,Online,NA,FALSE,Purchase channel,Q22C_province,0.2875229533699339,,general
+Barcelona,Physic ,NA,FALSE,Purchase channel,Q22C_province,0.2875229533699339,,general
+Girona,Physic ,NA,FALSE,Purchase channel,Q22C_province,0.2875229533699339,,general
+Lleida,Physic ,NA,FALSE,Purchase channel,Q22C_province,0.2875229533699339,,general
+Tarragona,Physic ,NA,FALSE,Purchase channel,Q22C_province,0.2875229533699339,,general
+Man,High,-5.089556974690554,TRUE,Purchase frequency,Q18_gender,4.632960662486761e-20,***,general
+Woman,High,4.803930057269288,TRUE,Purchase frequency,Q18_gender,4.632960662486761e-20,***,general
+Man,Low,4.5650892407086285,TRUE,Purchase frequency,Q18_gender,4.632960662486761e-20,***,general
+Woman,Low,-4.308895553505455,TRUE,Purchase frequency,Q18_gender,4.632960662486761e-20,***,general
+Man,Medium,0.5858763532909608,FALSE,Purchase frequency,Q18_gender,4.632960662486761e-20,,general
+Woman,Medium,-0.5529968595329242,FALSE,Purchase frequency,Q18_gender,4.632960662486761e-20,,general
+16-34,High,2.8737393485188147,TRUE,Purchase frequency,Q19_age,5.7779761981563364e-8,**,general
+35-54,High,0.6922186552431729,FALSE,Purchase frequency,Q19_age,5.7779761981563364e-8,,general
+≥ 55,High,-3.850306239691163,TRUE,Purchase frequency,Q19_age,5.7779761981563364e-8,***,general
+16-34,Low,-1.9414540782736265,FALSE,Purchase frequency,Q19_age,5.7779761981563364e-8,,general
+35-54,Low,-0.9103352162761305,FALSE,Purchase frequency,Q19_age,5.7779761981563364e-8,,general
+≥ 55,Low,3.1174284668058796,TRUE,Purchase frequency,Q19_age,5.7779761981563364e-8,**,general
+16-34,Medium,-0.9422660390132944,FALSE,Purchase frequency,Q19_age,5.7779761981563364e-8,,general
+35-54,Medium,0.19852941176470587,FALSE,Purchase frequency,Q19_age,5.7779761981563364e-8,,general
+≥ 55,Medium,0.7662876768960105,FALSE,Purchase frequency,Q19_age,5.7779761981563364e-8,,general
+"[17,000, 36,000)",High,-0.27233853974851485,FALSE,Purchase frequency,Q21_annual_gross_salary,0.01093703172938271,,general
+"< 17,000",High,2.2195180442391833,TRUE,Purchase frequency,Q21_annual_gross_salary,0.01093703172938271,*,general
+"≥ 36,000",High,-1.5069750239530566,FALSE,Purchase frequency,Q21_annual_gross_salary,0.01093703172938271,,general
+"[17,000, 36,000)",Low,0.9103427378117456,FALSE,Purchase frequency,Q21_annual_gross_salary,0.01093703172938271,,general
+"< 17,000",Low,-1.660780013072502,FALSE,Purchase frequency,Q21_annual_gross_salary,0.01093703172938271,,general
+"≥ 36,000",Low,0.28783034715058287,FALSE,Purchase frequency,Q21_annual_gross_salary,0.01093703172938271,,general
+"[17,000, 36,000)",Medium,-0.6088644280453004,FALSE,Purchase frequency,Q21_annual_gross_salary,0.01093703172938271,,general
+"< 17,000",Medium,-0.5727078872113724,FALSE,Purchase frequency,Q21_annual_gross_salary,0.01093703172938271,,general
+"≥ 36,000",Medium,1.1960331037724243,FALSE,Purchase frequency,Q21_annual_gross_salary,0.01093703172938271,,general
+Rural,High,0.7584549642942742,FALSE,Purchase frequency,Q22B_degurba,0.02012160229120457,,general
+Town and suburb,High,-1.58332818428418,FALSE,Purchase frequency,Q22B_degurba,0.02012160229120457,,general
+Urban,High,0.7889148452557038,FALSE,Purchase frequency,Q22B_degurba,0.02012160229120457,,general
+Rural,Low,0.7662117542293486,FALSE,Purchase frequency,Q22B_degurba,0.02012160229120457,,general
+Town and suburb,Low,1.621314080390938,FALSE,Purchase frequency,Q22B_degurba,0.02012160229120457,,general
+Urban,Low,-1.4643957695513126,FALSE,Purchase frequency,Q22B_degurba,0.02012160229120457,,general
+Rural,Medium,-1.4776707903716957,FALSE,Purchase frequency,Q22B_degurba,0.02012160229120457,,general
+Town and suburb,Medium,-0.01107452987403706,FALSE,Purchase frequency,Q22B_degurba,0.02012160229120457,,general
+Urban,Medium,0.6365874282060299,FALSE,Purchase frequency,Q22B_degurba,0.02012160229120457,,general
+Barcelona,High,NA,FALSE,Purchase frequency,Q22C_province,0.8815111144406624,,general
+Girona,High,NA,FALSE,Purchase frequency,Q22C_province,0.8815111144406624,,general
+Lleida,High,NA,FALSE,Purchase frequency,Q22C_province,0.8815111144406624,,general
+Tarragona,High,NA,FALSE,Purchase frequency,Q22C_province,0.8815111144406624,,general
+Barcelona,Low,NA,FALSE,Purchase frequency,Q22C_province,0.8815111144406624,,general
+Girona,Low,NA,FALSE,Purchase frequency,Q22C_province,0.8815111144406624,,general
+Lleida,Low,NA,FALSE,Purchase frequency,Q22C_province,0.8815111144406624,,general
+Tarragona,Low,NA,FALSE,Purchase frequency,Q22C_province,0.8815111144406624,,general
+Barcelona,Medium,NA,FALSE,Purchase frequency,Q22C_province,0.8815111144406624,,general
+Girona,Medium,NA,FALSE,Purchase frequency,Q22C_province,0.8815111144406624,,general
+Lleida,Medium,NA,FALSE,Purchase frequency,Q22C_province,0.8815111144406624,,general
+Tarragona,Medium,NA,FALSE,Purchase frequency,Q22C_province,0.8815111144406624,,general
+Man,High,-3.027308535026196,TRUE,Disposal frequency,Q18_gender,5.451299944902211e-11,**,general
+Woman,High,2.870886018879755,TRUE,Disposal frequency,Q18_gender,5.451299944902211e-11,**,general
+Man,Low,3.6652062639021152,TRUE,Disposal frequency,Q18_gender,5.451299944902211e-11,***,general
+Woman,Low,-3.4758232593745304,TRUE,Disposal frequency,Q18_gender,5.451299944902211e-11,***,general
+Man,Medium,-1.5122362072985798,FALSE,Disposal frequency,Q18_gender,5.451299944902211e-11,,general
+Woman,Medium,1.4340982210918496,FALSE,Disposal frequency,Q18_gender,5.451299944902211e-11,,general
+16-34,High,-0.7283844441412665,FALSE,Disposal frequency,Q19_age,4.597907197300123e-4,,general
+35-54,High,1.1286487128231963,FALSE,Disposal frequency,Q19_age,4.597907197300123e-4,,general
+≥ 55,High,-0.5497651056001674,FALSE,Disposal frequency,Q19_age,4.597907197300123e-4,,general
+16-34,Low,2.6624909496436167,TRUE,Disposal frequency,Q19_age,4.597907197300123e-4,**,general
+35-54,Low,-2.389831507231673,TRUE,Disposal frequency,Q19_age,4.597907197300123e-4,*,general
+≥ 55,Low,-0.01404251155350199,FALSE,Disposal frequency,Q19_age,4.597907197300123e-4,,general
+16-34,Medium,-1.8055590204713603,FALSE,Disposal frequency,Q19_age,4.597907197300123e-4,,general
+35-54,Medium,1.392373413057444,FALSE,Disposal frequency,Q19_age,4.597907197300123e-4,,general
+≥ 55,Medium,0.27566388437658607,FALSE,Disposal frequency,Q19_age,4.597907197300123e-4,,general
+"[17,000, 36,000)",High,NA,FALSE,Disposal frequency,Q21_annual_gross_salary,0.9857587613205852,,general
+"< 17,000",High,NA,FALSE,Disposal frequency,Q21_annual_gross_salary,0.9857587613205852,,general
+"≥ 36,000",High,NA,FALSE,Disposal frequency,Q21_annual_gross_salary,0.9857587613205852,,general
+"[17,000, 36,000)",Low,NA,FALSE,Disposal frequency,Q21_annual_gross_salary,0.9857587613205852,,general
+"< 17,000",Low,NA,FALSE,Disposal frequency,Q21_annual_gross_salary,0.9857587613205852,,general
+"≥ 36,000",Low,NA,FALSE,Disposal frequency,Q21_annual_gross_salary,0.9857587613205852,,general
+"[17,000, 36,000)",Medium,NA,FALSE,Disposal frequency,Q21_annual_gross_salary,0.9857587613205852,,general
+"< 17,000",Medium,NA,FALSE,Disposal frequency,Q21_annual_gross_salary,0.9857587613205852,,general
+"≥ 36,000",Medium,NA,FALSE,Disposal frequency,Q21_annual_gross_salary,0.9857587613205852,,general
+Rural,High,NA,FALSE,Disposal frequency,Q22B_degurba,0.21645180511558987,,general
+Town and suburb,High,NA,FALSE,Disposal frequency,Q22B_degurba,0.21645180511558987,,general
+Urban,High,NA,FALSE,Disposal frequency,Q22B_degurba,0.21645180511558987,,general
+Rural,Low,NA,FALSE,Disposal frequency,Q22B_degurba,0.21645180511558987,,general
+Town and suburb,Low,NA,FALSE,Disposal frequency,Q22B_degurba,0.21645180511558987,,general
+Urban,Low,NA,FALSE,Disposal frequency,Q22B_degurba,0.21645180511558987,,general
+Rural,Medium,NA,FALSE,Disposal frequency,Q22B_degurba,0.21645180511558987,,general
+Town and suburb,Medium,NA,FALSE,Disposal frequency,Q22B_degurba,0.21645180511558987,,general
+Urban,Medium,NA,FALSE,Disposal frequency,Q22B_degurba,0.21645180511558987,,general
+Barcelona,High,NA,FALSE,Disposal frequency,Q22C_province,0.767126324438719,,general
+Girona,High,NA,FALSE,Disposal frequency,Q22C_province,0.767126324438719,,general
+Lleida,High,NA,FALSE,Disposal frequency,Q22C_province,0.767126324438719,,general
+Tarragona,High,NA,FALSE,Disposal frequency,Q22C_province,0.767126324438719,,general
+Barcelona,Low,NA,FALSE,Disposal frequency,Q22C_province,0.767126324438719,,general
+Girona,Low,NA,FALSE,Disposal frequency,Q22C_province,0.767126324438719,,general
+Lleida,Low,NA,FALSE,Disposal frequency,Q22C_province,0.767126324438719,,general
+Tarragona,Low,NA,FALSE,Disposal frequency,Q22C_province,0.767126324438719,,general
+Barcelona,Medium,NA,FALSE,Disposal frequency,Q22C_province,0.767126324438719,,general
+Girona,Medium,NA,FALSE,Disposal frequency,Q22C_province,0.767126324438719,,general
+Lleida,Medium,NA,FALSE,Disposal frequency,Q22C_province,0.767126324438719,,general
+Tarragona,Medium,NA,FALSE,Disposal frequency,Q22C_province,0.767126324438719,,general
+Man,Myself and others,-2.755699103861017,TRUE,Purchase recipient,Q18_gender,1.9867826521972325e-12,**,general
+Woman,Myself and others,2.601048739538447,TRUE,Purchase recipient,Q18_gender,1.9867826521972325e-12,**,general
+Man,Only myself,3.3400766958126225,TRUE,Purchase recipient,Q18_gender,1.9867826521972325e-12,***,general
+Woman,Only myself,-3.152630948506972,TRUE,Purchase recipient,Q18_gender,1.9867826521972325e-12,**,general
+Man,Only others,-3.122339716469011,TRUE,Purchase recipient,Q18_gender,1.9867826521972325e-12,**,general
+Woman,Only others,2.947113410369696,TRUE,Purchase recipient,Q18_gender,1.9867826521972325e-12,**,general
+16-34,Myself and others,-2.704473905305358,TRUE,Purchase recipient,Q19_age,8.867680908127465e-23,**,general
+35-54,Myself and others,2.325651273547659,TRUE,Purchase recipient,Q19_age,8.867680908127465e-23,*,general
+≥ 55,Myself and others,0.15187117421184756,FALSE,Purchase recipient,Q19_age,8.867680908127465e-23,,general
+16-34,Only myself,3.982229414045268,TRUE,Purchase recipient,Q19_age,8.867680908127465e-23,***,general
+35-54,Only myself,-4.24675148741674,TRUE,Purchase recipient,Q19_age,8.867680908127465e-23,***,general
+≥ 55,Only myself,0.7353021944223311,FALSE,Purchase recipient,Q19_age,8.867680908127465e-23,,general
+16-34,Only others,-4.727070056382291,TRUE,Purchase recipient,Q19_age,8.867680908127465e-23,***,general
+35-54,Only others,6.006510476428746,TRUE,Purchase recipient,Q19_age,8.867680908127465e-23,***,general
+≥ 55,Only others,-1.9986536479044503,TRUE,Purchase recipient,Q19_age,8.867680908127465e-23,*,general
+"[17,000, 36,000)",Myself and others,NA,FALSE,Purchase recipient,Q21_annual_gross_salary,0.05024034037557961,,general
+"< 17,000",Myself and others,NA,FALSE,Purchase recipient,Q21_annual_gross_salary,0.05024034037557961,,general
+"≥ 36,000",Myself and others,NA,FALSE,Purchase recipient,Q21_annual_gross_salary,0.05024034037557961,,general
+"[17,000, 36,000)",Only myself,NA,FALSE,Purchase recipient,Q21_annual_gross_salary,0.05024034037557961,,general
+"< 17,000",Only myself,NA,FALSE,Purchase recipient,Q21_annual_gross_salary,0.05024034037557961,,general
+"≥ 36,000",Only myself,NA,FALSE,Purchase recipient,Q21_annual_gross_salary,0.05024034037557961,,general
+"[17,000, 36,000)",Only others,NA,FALSE,Purchase recipient,Q21_annual_gross_salary,0.05024034037557961,,general
+"< 17,000",Only others,NA,FALSE,Purchase recipient,Q21_annual_gross_salary,0.05024034037557961,,general
+"≥ 36,000",Only others,NA,FALSE,Purchase recipient,Q21_annual_gross_salary,0.05024034037557961,,general
+Rural,Myself and others,-0.7778174593052023,FALSE,Purchase recipient,Q22B_degurba,0.00101625071496846,,general
+Town and suburb,Myself and others,0.85,FALSE,Purchase recipient,Q22B_degurba,0.00101625071496846,,general
+Urban,Myself and others,-0.2657985954819193,FALSE,Purchase recipient,Q22B_degurba,0.00101625071496846,,general
+Rural,Only myself,-0.4782337140363384,FALSE,Purchase recipient,Q22B_degurba,0.00101625071496846,,general
+Town and suburb,Only myself,-1.3236504587344289,FALSE,Purchase recipient,Q22B_degurba,0.00101625071496846,,general
+Urban,Only myself,1.1328563847856157,FALSE,Purchase recipient,Q22B_degurba,0.00101625071496846,,general
+Rural,Only others,2.473785464627533,TRUE,Purchase recipient,Q22B_degurba,0.00101625071496846,*,general
+Town and suburb,Only others,1.6558284245151071,FALSE,Purchase recipient,Q22B_degurba,0.00101625071496846,,general
+Urban,Only others,-2.215274004268525,TRUE,Purchase recipient,Q22B_degurba,0.00101625071496846,*,general
+Barcelona,Myself and others,NA,FALSE,Purchase recipient,Q22C_province,0.05206290789981423,,general
+Girona,Myself and others,NA,FALSE,Purchase recipient,Q22C_province,0.05206290789981423,,general
+Lleida,Myself and others,NA,FALSE,Purchase recipient,Q22C_province,0.05206290789981423,,general
+Tarragona,Myself and others,NA,FALSE,Purchase recipient,Q22C_province,0.05206290789981423,,general
+Barcelona,Only myself,NA,FALSE,Purchase recipient,Q22C_province,0.05206290789981423,,general
+Girona,Only myself,NA,FALSE,Purchase recipient,Q22C_province,0.05206290789981423,,general
+Lleida,Only myself,NA,FALSE,Purchase recipient,Q22C_province,0.05206290789981423,,general
+Tarragona,Only myself,NA,FALSE,Purchase recipient,Q22C_province,0.05206290789981423,,general
+Barcelona,Only others,NA,FALSE,Purchase recipient,Q22C_province,0.05206290789981423,,general
+Girona,Only others,NA,FALSE,Purchase recipient,Q22C_province,0.05206290789981423,,general
+Lleida,Only others,NA,FALSE,Purchase recipient,Q22C_province,0.05206290789981423,,general
+Tarragona,Only others,NA,TRUE,Purchase recipient,Q22C_province,0.05206290789981423,,general

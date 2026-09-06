@@ -1,0 +1,361 @@
+cov_cat,var_cat,residual,significant,var,cov,p,sig,var_type
+Man,High,NA,FALSE,Hygiene concerns,Q18_gender,0.3564962127749407,,barriers
+Woman,High,NA,FALSE,Hygiene concerns,Q18_gender,0.3564962127749407,,barriers
+Man,Low,NA,FALSE,Hygiene concerns,Q18_gender,0.3564962127749407,,barriers
+Woman,Low,NA,FALSE,Hygiene concerns,Q18_gender,0.3564962127749407,,barriers
+Man,Medium,NA,FALSE,Hygiene concerns,Q18_gender,0.3564962127749407,,barriers
+Woman,Medium,NA,FALSE,Hygiene concerns,Q18_gender,0.3564962127749407,,barriers
+16-34,High,NA,FALSE,Hygiene concerns,Q19_age,0.11563781890862272,,barriers
+35-54,High,NA,FALSE,Hygiene concerns,Q19_age,0.11563781890862272,,barriers
+≥ 55,High,NA,FALSE,Hygiene concerns,Q19_age,0.11563781890862272,,barriers
+16-34,Low,NA,FALSE,Hygiene concerns,Q19_age,0.11563781890862272,,barriers
+35-54,Low,NA,FALSE,Hygiene concerns,Q19_age,0.11563781890862272,,barriers
+≥ 55,Low,NA,FALSE,Hygiene concerns,Q19_age,0.11563781890862272,,barriers
+16-34,Medium,NA,FALSE,Hygiene concerns,Q19_age,0.11563781890862272,,barriers
+35-54,Medium,NA,FALSE,Hygiene concerns,Q19_age,0.11563781890862272,,barriers
+≥ 55,Medium,NA,FALSE,Hygiene concerns,Q19_age,0.11563781890862272,,barriers
+"[17,000, 36,000)",High,NA,FALSE,Hygiene concerns,Q21_annual_gross_salary,0.06548031568134464,,barriers
+"< 17,000",High,NA,FALSE,Hygiene concerns,Q21_annual_gross_salary,0.06548031568134464,,barriers
+"≥ 36,000",High,NA,FALSE,Hygiene concerns,Q21_annual_gross_salary,0.06548031568134464,,barriers
+"[17,000, 36,000)",Low,NA,FALSE,Hygiene concerns,Q21_annual_gross_salary,0.06548031568134464,,barriers
+"< 17,000",Low,NA,FALSE,Hygiene concerns,Q21_annual_gross_salary,0.06548031568134464,,barriers
+"≥ 36,000",Low,NA,FALSE,Hygiene concerns,Q21_annual_gross_salary,0.06548031568134464,,barriers
+"[17,000, 36,000)",Medium,NA,FALSE,Hygiene concerns,Q21_annual_gross_salary,0.06548031568134464,,barriers
+"< 17,000",Medium,NA,FALSE,Hygiene concerns,Q21_annual_gross_salary,0.06548031568134464,,barriers
+"≥ 36,000",Medium,NA,FALSE,Hygiene concerns,Q21_annual_gross_salary,0.06548031568134464,,barriers
+Rural,High,NA,FALSE,Hygiene concerns,Q22B_degurba,0.12842905310404087,,barriers
+Town and suburb,High,NA,FALSE,Hygiene concerns,Q22B_degurba,0.12842905310404087,,barriers
+Urban,High,NA,FALSE,Hygiene concerns,Q22B_degurba,0.12842905310404087,,barriers
+Rural,Low,NA,FALSE,Hygiene concerns,Q22B_degurba,0.12842905310404087,,barriers
+Town and suburb,Low,NA,FALSE,Hygiene concerns,Q22B_degurba,0.12842905310404087,,barriers
+Urban,Low,NA,FALSE,Hygiene concerns,Q22B_degurba,0.12842905310404087,,barriers
+Rural,Medium,NA,FALSE,Hygiene concerns,Q22B_degurba,0.12842905310404087,,barriers
+Town and suburb,Medium,NA,FALSE,Hygiene concerns,Q22B_degurba,0.12842905310404087,,barriers
+Urban,Medium,NA,FALSE,Hygiene concerns,Q22B_degurba,0.12842905310404087,,barriers
+Barcelona,High,NA,FALSE,Hygiene concerns,Q22C_province,0.6056645173960968,,barriers
+Girona,High,NA,FALSE,Hygiene concerns,Q22C_province,0.6056645173960968,,barriers
+Lleida,High,NA,FALSE,Hygiene concerns,Q22C_province,0.6056645173960968,,barriers
+Tarragona,High,NA,FALSE,Hygiene concerns,Q22C_province,0.6056645173960968,,barriers
+Barcelona,Low,NA,FALSE,Hygiene concerns,Q22C_province,0.6056645173960968,,barriers
+Girona,Low,NA,FALSE,Hygiene concerns,Q22C_province,0.6056645173960968,,barriers
+Lleida,Low,NA,FALSE,Hygiene concerns,Q22C_province,0.6056645173960968,,barriers
+Tarragona,Low,NA,FALSE,Hygiene concerns,Q22C_province,0.6056645173960968,,barriers
+Barcelona,Medium,NA,FALSE,Hygiene concerns,Q22C_province,0.6056645173960968,,barriers
+Girona,Medium,NA,FALSE,Hygiene concerns,Q22C_province,0.6056645173960968,,barriers
+Lleida,Medium,NA,FALSE,Hygiene concerns,Q22C_province,0.6056645173960968,,barriers
+Tarragona,Medium,NA,FALSE,Hygiene concerns,Q22C_province,0.6056645173960968,,barriers
+Man,High,NA,FALSE,Social stigma,Q18_gender,0.24538246537065656,,barriers
+Woman,High,NA,FALSE,Social stigma,Q18_gender,0.24538246537065656,,barriers
+Man,Low,NA,FALSE,Social stigma,Q18_gender,0.24538246537065656,,barriers
+Woman,Low,NA,FALSE,Social stigma,Q18_gender,0.24538246537065656,,barriers
+Man,Medium,NA,FALSE,Social stigma,Q18_gender,0.24538246537065656,,barriers
+Woman,Medium,NA,FALSE,Social stigma,Q18_gender,0.24538246537065656,,barriers
+16-34,High,NA,FALSE,Social stigma,Q19_age,0.2218495767640798,,barriers
+35-54,High,NA,FALSE,Social stigma,Q19_age,0.2218495767640798,,barriers
+≥ 55,High,NA,FALSE,Social stigma,Q19_age,0.2218495767640798,,barriers
+16-34,Low,NA,FALSE,Social stigma,Q19_age,0.2218495767640798,,barriers
+35-54,Low,NA,FALSE,Social stigma,Q19_age,0.2218495767640798,,barriers
+≥ 55,Low,NA,FALSE,Social stigma,Q19_age,0.2218495767640798,,barriers
+16-34,Medium,NA,FALSE,Social stigma,Q19_age,0.2218495767640798,,barriers
+35-54,Medium,NA,FALSE,Social stigma,Q19_age,0.2218495767640798,,barriers
+≥ 55,Medium,NA,FALSE,Social stigma,Q19_age,0.2218495767640798,,barriers
+"[17,000, 36,000)",High,NA,FALSE,Social stigma,Q21_annual_gross_salary,0.8838787638455973,,barriers
+"< 17,000",High,NA,FALSE,Social stigma,Q21_annual_gross_salary,0.8838787638455973,,barriers
+"≥ 36,000",High,NA,FALSE,Social stigma,Q21_annual_gross_salary,0.8838787638455973,,barriers
+"[17,000, 36,000)",Low,NA,FALSE,Social stigma,Q21_annual_gross_salary,0.8838787638455973,,barriers
+"< 17,000",Low,NA,FALSE,Social stigma,Q21_annual_gross_salary,0.8838787638455973,,barriers
+"≥ 36,000",Low,NA,FALSE,Social stigma,Q21_annual_gross_salary,0.8838787638455973,,barriers
+"[17,000, 36,000)",Medium,NA,FALSE,Social stigma,Q21_annual_gross_salary,0.8838787638455973,,barriers
+"< 17,000",Medium,NA,FALSE,Social stigma,Q21_annual_gross_salary,0.8838787638455973,,barriers
+"≥ 36,000",Medium,NA,FALSE,Social stigma,Q21_annual_gross_salary,0.8838787638455973,,barriers
+Rural,High,NA,FALSE,Social stigma,Q22B_degurba,0.7917083147449153,,barriers
+Town and suburb,High,NA,FALSE,Social stigma,Q22B_degurba,0.7917083147449153,,barriers
+Urban,High,NA,FALSE,Social stigma,Q22B_degurba,0.7917083147449153,,barriers
+Rural,Low,NA,FALSE,Social stigma,Q22B_degurba,0.7917083147449153,,barriers
+Town and suburb,Low,NA,FALSE,Social stigma,Q22B_degurba,0.7917083147449153,,barriers
+Urban,Low,NA,FALSE,Social stigma,Q22B_degurba,0.7917083147449153,,barriers
+Rural,Medium,NA,FALSE,Social stigma,Q22B_degurba,0.7917083147449153,,barriers
+Town and suburb,Medium,NA,FALSE,Social stigma,Q22B_degurba,0.7917083147449153,,barriers
+Urban,Medium,NA,FALSE,Social stigma,Q22B_degurba,0.7917083147449153,,barriers
+Barcelona,High,NA,FALSE,Social stigma,Q22C_province,0.2679765159882538,,barriers
+Girona,High,NA,FALSE,Social stigma,Q22C_province,0.2679765159882538,,barriers
+Lleida,High,NA,FALSE,Social stigma,Q22C_province,0.2679765159882538,,barriers
+Tarragona,High,NA,FALSE,Social stigma,Q22C_province,0.2679765159882538,,barriers
+Barcelona,Low,NA,FALSE,Social stigma,Q22C_province,0.2679765159882538,,barriers
+Girona,Low,NA,FALSE,Social stigma,Q22C_province,0.2679765159882538,,barriers
+Lleida,Low,NA,FALSE,Social stigma,Q22C_province,0.2679765159882538,,barriers
+Tarragona,Low,NA,FALSE,Social stigma,Q22C_province,0.2679765159882538,,barriers
+Barcelona,Medium,NA,FALSE,Social stigma,Q22C_province,0.2679765159882538,,barriers
+Girona,Medium,NA,FALSE,Social stigma,Q22C_province,0.2679765159882538,,barriers
+Lleida,Medium,NA,FALSE,Social stigma,Q22C_province,0.2679765159882538,,barriers
+Tarragona,Medium,NA,FALSE,Social stigma,Q22C_province,0.2679765159882538,,barriers
+Man,High,NA,FALSE,Perceived lower quality,Q18_gender,0.16404624760267095,,barriers
+Woman,High,NA,FALSE,Perceived lower quality,Q18_gender,0.16404624760267095,,barriers
+Man,Low,NA,FALSE,Perceived lower quality,Q18_gender,0.16404624760267095,,barriers
+Woman,Low,NA,FALSE,Perceived lower quality,Q18_gender,0.16404624760267095,,barriers
+Man,Medium,NA,FALSE,Perceived lower quality,Q18_gender,0.16404624760267095,,barriers
+Woman,Medium,NA,FALSE,Perceived lower quality,Q18_gender,0.16404624760267095,,barriers
+16-34,High,NA,FALSE,Perceived lower quality,Q19_age,0.40267674109122725,,barriers
+35-54,High,NA,FALSE,Perceived lower quality,Q19_age,0.40267674109122725,,barriers
+≥ 55,High,NA,FALSE,Perceived lower quality,Q19_age,0.40267674109122725,,barriers
+16-34,Low,NA,FALSE,Perceived lower quality,Q19_age,0.40267674109122725,,barriers
+35-54,Low,NA,FALSE,Perceived lower quality,Q19_age,0.40267674109122725,,barriers
+≥ 55,Low,NA,FALSE,Perceived lower quality,Q19_age,0.40267674109122725,,barriers
+16-34,Medium,NA,FALSE,Perceived lower quality,Q19_age,0.40267674109122725,,barriers
+35-54,Medium,NA,FALSE,Perceived lower quality,Q19_age,0.40267674109122725,,barriers
+≥ 55,Medium,NA,FALSE,Perceived lower quality,Q19_age,0.40267674109122725,,barriers
+"[17,000, 36,000)",High,NA,FALSE,Perceived lower quality,Q21_annual_gross_salary,0.6891052662159252,,barriers
+"< 17,000",High,NA,FALSE,Perceived lower quality,Q21_annual_gross_salary,0.6891052662159252,,barriers
+"≥ 36,000",High,NA,FALSE,Perceived lower quality,Q21_annual_gross_salary,0.6891052662159252,,barriers
+"[17,000, 36,000)",Low,NA,FALSE,Perceived lower quality,Q21_annual_gross_salary,0.6891052662159252,,barriers
+"< 17,000",Low,NA,FALSE,Perceived lower quality,Q21_annual_gross_salary,0.6891052662159252,,barriers
+"≥ 36,000",Low,NA,FALSE,Perceived lower quality,Q21_annual_gross_salary,0.6891052662159252,,barriers
+"[17,000, 36,000)",Medium,NA,FALSE,Perceived lower quality,Q21_annual_gross_salary,0.6891052662159252,,barriers
+"< 17,000",Medium,NA,FALSE,Perceived lower quality,Q21_annual_gross_salary,0.6891052662159252,,barriers
+"≥ 36,000",Medium,NA,FALSE,Perceived lower quality,Q21_annual_gross_salary,0.6891052662159252,,barriers
+Rural,High,NA,FALSE,Perceived lower quality,Q22B_degurba,0.4033263191068199,,barriers
+Town and suburb,High,NA,FALSE,Perceived lower quality,Q22B_degurba,0.4033263191068199,,barriers
+Urban,High,NA,FALSE,Perceived lower quality,Q22B_degurba,0.4033263191068199,,barriers
+Rural,Low,NA,FALSE,Perceived lower quality,Q22B_degurba,0.4033263191068199,,barriers
+Town and suburb,Low,NA,FALSE,Perceived lower quality,Q22B_degurba,0.4033263191068199,,barriers
+Urban,Low,NA,FALSE,Perceived lower quality,Q22B_degurba,0.4033263191068199,,barriers
+Rural,Medium,NA,FALSE,Perceived lower quality,Q22B_degurba,0.4033263191068199,,barriers
+Town and suburb,Medium,NA,FALSE,Perceived lower quality,Q22B_degurba,0.4033263191068199,,barriers
+Urban,Medium,NA,FALSE,Perceived lower quality,Q22B_degurba,0.4033263191068199,,barriers
+Barcelona,High,NA,FALSE,Perceived lower quality,Q22C_province,0.8622880699200499,,barriers
+Girona,High,NA,FALSE,Perceived lower quality,Q22C_province,0.8622880699200499,,barriers
+Lleida,High,NA,FALSE,Perceived lower quality,Q22C_province,0.8622880699200499,,barriers
+Tarragona,High,NA,FALSE,Perceived lower quality,Q22C_province,0.8622880699200499,,barriers
+Barcelona,Low,NA,FALSE,Perceived lower quality,Q22C_province,0.8622880699200499,,barriers
+Girona,Low,NA,FALSE,Perceived lower quality,Q22C_province,0.8622880699200499,,barriers
+Lleida,Low,NA,FALSE,Perceived lower quality,Q22C_province,0.8622880699200499,,barriers
+Tarragona,Low,NA,FALSE,Perceived lower quality,Q22C_province,0.8622880699200499,,barriers
+Barcelona,Medium,NA,FALSE,Perceived lower quality,Q22C_province,0.8622880699200499,,barriers
+Girona,Medium,NA,FALSE,Perceived lower quality,Q22C_province,0.8622880699200499,,barriers
+Lleida,Medium,NA,FALSE,Perceived lower quality,Q22C_province,0.8622880699200499,,barriers
+Tarragona,Medium,NA,FALSE,Perceived lower quality,Q22C_province,0.8622880699200499,,barriers
+Man,High,NA,FALSE,Limited style availability,Q18_gender,0.05514196179390018,,barriers
+Woman,High,NA,FALSE,Limited style availability,Q18_gender,0.05514196179390018,,barriers
+Man,Low,NA,FALSE,Limited style availability,Q18_gender,0.05514196179390018,,barriers
+Woman,Low,NA,FALSE,Limited style availability,Q18_gender,0.05514196179390018,,barriers
+Man,Medium,NA,FALSE,Limited style availability,Q18_gender,0.05514196179390018,,barriers
+Woman,Medium,NA,FALSE,Limited style availability,Q18_gender,0.05514196179390018,,barriers
+16-34,High,NA,FALSE,Limited style availability,Q19_age,0.12510689906463765,,barriers
+35-54,High,NA,FALSE,Limited style availability,Q19_age,0.12510689906463765,,barriers
+≥ 55,High,NA,FALSE,Limited style availability,Q19_age,0.12510689906463765,,barriers
+16-34,Low,NA,FALSE,Limited style availability,Q19_age,0.12510689906463765,,barriers
+35-54,Low,NA,FALSE,Limited style availability,Q19_age,0.12510689906463765,,barriers
+≥ 55,Low,NA,FALSE,Limited style availability,Q19_age,0.12510689906463765,,barriers
+16-34,Medium,NA,FALSE,Limited style availability,Q19_age,0.12510689906463765,,barriers
+35-54,Medium,NA,FALSE,Limited style availability,Q19_age,0.12510689906463765,,barriers
+≥ 55,Medium,NA,FALSE,Limited style availability,Q19_age,0.12510689906463765,,barriers
+"[17,000, 36,000)",High,NA,FALSE,Limited style availability,Q21_annual_gross_salary,0.4379486345823067,,barriers
+"< 17,000",High,NA,FALSE,Limited style availability,Q21_annual_gross_salary,0.4379486345823067,,barriers
+"≥ 36,000",High,NA,FALSE,Limited style availability,Q21_annual_gross_salary,0.4379486345823067,,barriers
+"[17,000, 36,000)",Low,NA,FALSE,Limited style availability,Q21_annual_gross_salary,0.4379486345823067,,barriers
+"< 17,000",Low,NA,FALSE,Limited style availability,Q21_annual_gross_salary,0.4379486345823067,,barriers
+"≥ 36,000",Low,NA,FALSE,Limited style availability,Q21_annual_gross_salary,0.4379486345823067,,barriers
+"[17,000, 36,000)",Medium,NA,FALSE,Limited style availability,Q21_annual_gross_salary,0.4379486345823067,,barriers
+"< 17,000",Medium,NA,FALSE,Limited style availability,Q21_annual_gross_salary,0.4379486345823067,,barriers
+"≥ 36,000",Medium,NA,FALSE,Limited style availability,Q21_annual_gross_salary,0.4379486345823067,,barriers
+Rural,High,NA,FALSE,Limited style availability,Q22B_degurba,0.20885378504854665,,barriers
+Town and suburb,High,NA,FALSE,Limited style availability,Q22B_degurba,0.20885378504854665,,barriers
+Urban,High,NA,FALSE,Limited style availability,Q22B_degurba,0.20885378504854665,,barriers
+Rural,Low,NA,FALSE,Limited style availability,Q22B_degurba,0.20885378504854665,,barriers
+Town and suburb,Low,NA,FALSE,Limited style availability,Q22B_degurba,0.20885378504854665,,barriers
+Urban,Low,NA,FALSE,Limited style availability,Q22B_degurba,0.20885378504854665,,barriers
+Rural,Medium,NA,FALSE,Limited style availability,Q22B_degurba,0.20885378504854665,,barriers
+Town and suburb,Medium,NA,FALSE,Limited style availability,Q22B_degurba,0.20885378504854665,,barriers
+Urban,Medium,NA,FALSE,Limited style availability,Q22B_degurba,0.20885378504854665,,barriers
+Barcelona,High,NA,FALSE,Limited style availability,Q22C_province,0.3125291305019379,,barriers
+Girona,High,NA,FALSE,Limited style availability,Q22C_province,0.3125291305019379,,barriers
+Lleida,High,NA,FALSE,Limited style availability,Q22C_province,0.3125291305019379,,barriers
+Tarragona,High,NA,FALSE,Limited style availability,Q22C_province,0.3125291305019379,,barriers
+Barcelona,Low,NA,FALSE,Limited style availability,Q22C_province,0.3125291305019379,,barriers
+Girona,Low,NA,FALSE,Limited style availability,Q22C_province,0.3125291305019379,,barriers
+Lleida,Low,NA,FALSE,Limited style availability,Q22C_province,0.3125291305019379,,barriers
+Tarragona,Low,NA,FALSE,Limited style availability,Q22C_province,0.3125291305019379,,barriers
+Barcelona,Medium,NA,FALSE,Limited style availability,Q22C_province,0.3125291305019379,,barriers
+Girona,Medium,NA,FALSE,Limited style availability,Q22C_province,0.3125291305019379,,barriers
+Lleida,Medium,NA,FALSE,Limited style availability,Q22C_province,0.3125291305019379,,barriers
+Tarragona,Medium,NA,FALSE,Limited style availability,Q22C_province,0.3125291305019379,,barriers
+Man,High,-1.3106860865246386,FALSE,Limited size availability,Q18_gender,0.04952649329686283,,barriers
+Woman,High,1.42299915644533,FALSE,Limited size availability,Q18_gender,0.04952649329686283,,barriers
+Man,Low,0.9664462559542316,FALSE,Limited size availability,Q18_gender,0.04952649329686283,,barriers
+Woman,Low,-1.0492613152087251,FALSE,Limited size availability,Q18_gender,0.04952649329686283,,barriers
+Man,Medium,-0.3268133100077134,FALSE,Limited size availability,Q18_gender,0.04952649329686283,,barriers
+Woman,Medium,0.35481803708560244,FALSE,Limited size availability,Q18_gender,0.04952649329686283,,barriers
+16-34,High,NA,FALSE,Limited size availability,Q19_age,0.31496240647692736,,barriers
+35-54,High,NA,FALSE,Limited size availability,Q19_age,0.31496240647692736,,barriers
+≥ 55,High,NA,FALSE,Limited size availability,Q19_age,0.31496240647692736,,barriers
+16-34,Low,NA,FALSE,Limited size availability,Q19_age,0.31496240647692736,,barriers
+35-54,Low,NA,FALSE,Limited size availability,Q19_age,0.31496240647692736,,barriers
+≥ 55,Low,NA,FALSE,Limited size availability,Q19_age,0.31496240647692736,,barriers
+16-34,Medium,NA,FALSE,Limited size availability,Q19_age,0.31496240647692736,,barriers
+35-54,Medium,NA,FALSE,Limited size availability,Q19_age,0.31496240647692736,,barriers
+≥ 55,Medium,NA,FALSE,Limited size availability,Q19_age,0.31496240647692736,,barriers
+"[17,000, 36,000)",High,0.7187023141973438,FALSE,Limited size availability,Q21_annual_gross_salary,0.00244416175630835,,barriers
+"< 17,000",High,2.1613023462273344,TRUE,Limited size availability,Q21_annual_gross_salary,0.00244416175630835,*,barriers
+"≥ 36,000",High,-2.2416457999646893,TRUE,Limited size availability,Q21_annual_gross_salary,0.00244416175630835,*,barriers
+"[17,000, 36,000)",Low,0.2394764472827223,FALSE,Limited size availability,Q21_annual_gross_salary,0.00244416175630835,,barriers
+"< 17,000",Low,-1.8160343325916015,FALSE,Limited size availability,Q21_annual_gross_salary,0.00244416175630835,,barriers
+"≥ 36,000",Low,0.9862475079318592,FALSE,Limited size availability,Q21_annual_gross_salary,0.00244416175630835,,barriers
+"[17,000, 36,000)",Medium,-0.983473244861348,FALSE,Limited size availability,Q21_annual_gross_salary,0.00244416175630835,,barriers
+"< 17,000",Medium,0.8749495632746858,FALSE,Limited size availability,Q21_annual_gross_salary,0.00244416175630835,,barriers
+"≥ 36,000",Medium,0.4484407628611336,FALSE,Limited size availability,Q21_annual_gross_salary,0.00244416175630835,,barriers
+Rural,High,NA,FALSE,Limited size availability,Q22B_degurba,0.39302026710686094,,barriers
+Town and suburb,High,NA,FALSE,Limited size availability,Q22B_degurba,0.39302026710686094,,barriers
+Urban,High,NA,FALSE,Limited size availability,Q22B_degurba,0.39302026710686094,,barriers
+Rural,Low,NA,FALSE,Limited size availability,Q22B_degurba,0.39302026710686094,,barriers
+Town and suburb,Low,NA,FALSE,Limited size availability,Q22B_degurba,0.39302026710686094,,barriers
+Urban,Low,NA,FALSE,Limited size availability,Q22B_degurba,0.39302026710686094,,barriers
+Rural,Medium,NA,FALSE,Limited size availability,Q22B_degurba,0.39302026710686094,,barriers
+Town and suburb,Medium,NA,FALSE,Limited size availability,Q22B_degurba,0.39302026710686094,,barriers
+Urban,Medium,NA,FALSE,Limited size availability,Q22B_degurba,0.39302026710686094,,barriers
+Barcelona,High,NA,FALSE,Limited size availability,Q22C_province,0.4437508362950474,,barriers
+Girona,High,NA,FALSE,Limited size availability,Q22C_province,0.4437508362950474,,barriers
+Lleida,High,NA,FALSE,Limited size availability,Q22C_province,0.4437508362950474,,barriers
+Tarragona,High,NA,FALSE,Limited size availability,Q22C_province,0.4437508362950474,,barriers
+Barcelona,Low,NA,FALSE,Limited size availability,Q22C_province,0.4437508362950474,,barriers
+Girona,Low,NA,FALSE,Limited size availability,Q22C_province,0.4437508362950474,,barriers
+Lleida,Low,NA,FALSE,Limited size availability,Q22C_province,0.4437508362950474,,barriers
+Tarragona,Low,NA,FALSE,Limited size availability,Q22C_province,0.4437508362950474,,barriers
+Barcelona,Medium,NA,FALSE,Limited size availability,Q22C_province,0.4437508362950474,,barriers
+Girona,Medium,NA,FALSE,Limited size availability,Q22C_province,0.4437508362950474,,barriers
+Lleida,Medium,NA,FALSE,Limited size availability,Q22C_province,0.4437508362950474,,barriers
+Tarragona,Medium,NA,FALSE,Limited size availability,Q22C_province,0.4437508362950474,,barriers
+Man,High,NA,FALSE,Comparable price to new clothing,Q18_gender,0.7351801812552191,,barriers
+Woman,High,NA,FALSE,Comparable price to new clothing,Q18_gender,0.7351801812552191,,barriers
+Man,Low,NA,FALSE,Comparable price to new clothing,Q18_gender,0.7351801812552191,,barriers
+Woman,Low,NA,FALSE,Comparable price to new clothing,Q18_gender,0.7351801812552191,,barriers
+Man,Medium,NA,FALSE,Comparable price to new clothing,Q18_gender,0.7351801812552191,,barriers
+Woman,Medium,NA,FALSE,Comparable price to new clothing,Q18_gender,0.7351801812552191,,barriers
+16-34,High,0.9256457626242848,FALSE,Comparable price to new clothing,Q19_age,0.00488757836521105,,barriers
+35-54,High,1.1807878144837716,FALSE,Comparable price to new clothing,Q19_age,0.00488757836521105,,barriers
+≥ 55,High,-1.9947248845053456,TRUE,Comparable price to new clothing,Q19_age,0.00488757836521105,*,barriers
+16-34,Low,-1.1212532136201558,FALSE,Comparable price to new clothing,Q19_age,0.00488757836521105,,barriers
+35-54,Low,-1.0803911176214025,FALSE,Comparable price to new clothing,Q19_age,0.00488757836521105,,barriers
+≥ 55,Low,2.049701266940419,TRUE,Comparable price to new clothing,Q19_age,0.00488757836521105,*,barriers
+16-34,Medium,0.7715256652996728,FALSE,Comparable price to new clothing,Q19_age,0.00488757836521105,,barriers
+35-54,Medium,0.4628736335175629,FALSE,Comparable price to new clothing,Q19_age,0.00488757836521105,,barriers
+≥ 55,Medium,-1.1165175356976376,FALSE,Comparable price to new clothing,Q19_age,0.00488757836521105,,barriers
+"[17,000, 36,000)",High,-1.902570035623268,FALSE,Comparable price to new clothing,Q21_annual_gross_salary,0.01661990405532336,,barriers
+"< 17,000",High,0.9103611899965168,FALSE,Comparable price to new clothing,Q21_annual_gross_salary,0.01661990405532336,,barriers
+"≥ 36,000",High,1.4021099983554015,FALSE,Comparable price to new clothing,Q21_annual_gross_salary,0.01661990405532336,,barriers
+"[17,000, 36,000)",Low,0.46731028939112906,FALSE,Comparable price to new clothing,Q21_annual_gross_salary,0.01661990405532336,,barriers
+"< 17,000",Low,-1.007250574949345,FALSE,Comparable price to new clothing,Q21_annual_gross_salary,0.01661990405532336,,barriers
+"≥ 36,000",Low,0.19113997106614855,FALSE,Comparable price to new clothing,Q21_annual_gross_salary,0.01661990405532336,,barriers
+"[17,000, 36,000)",Medium,1.151438727209553,FALSE,Comparable price to new clothing,Q21_annual_gross_salary,0.01661990405532336,,barriers
+"< 17,000",Medium,0.6165274973606347,FALSE,Comparable price to new clothing,Q21_annual_gross_salary,0.01661990405532336,,barriers
+"≥ 36,000",Medium,-1.6463890139450488,FALSE,Comparable price to new clothing,Q21_annual_gross_salary,0.01661990405532336,,barriers
+Rural,High,NA,FALSE,Comparable price to new clothing,Q22B_degurba,0.669204590621432,,barriers
+Town and suburb,High,NA,FALSE,Comparable price to new clothing,Q22B_degurba,0.669204590621432,,barriers
+Urban,High,NA,FALSE,Comparable price to new clothing,Q22B_degurba,0.669204590621432,,barriers
+Rural,Low,NA,FALSE,Comparable price to new clothing,Q22B_degurba,0.669204590621432,,barriers
+Town and suburb,Low,NA,FALSE,Comparable price to new clothing,Q22B_degurba,0.669204590621432,,barriers
+Urban,Low,NA,FALSE,Comparable price to new clothing,Q22B_degurba,0.669204590621432,,barriers
+Rural,Medium,NA,FALSE,Comparable price to new clothing,Q22B_degurba,0.669204590621432,,barriers
+Town and suburb,Medium,NA,FALSE,Comparable price to new clothing,Q22B_degurba,0.669204590621432,,barriers
+Urban,Medium,NA,FALSE,Comparable price to new clothing,Q22B_degurba,0.669204590621432,,barriers
+Barcelona,High,NA,FALSE,Comparable price to new clothing,Q22C_province,0.8202793018659433,,barriers
+Girona,High,NA,FALSE,Comparable price to new clothing,Q22C_province,0.8202793018659433,,barriers
+Lleida,High,NA,FALSE,Comparable price to new clothing,Q22C_province,0.8202793018659433,,barriers
+Tarragona,High,NA,FALSE,Comparable price to new clothing,Q22C_province,0.8202793018659433,,barriers
+Barcelona,Low,NA,FALSE,Comparable price to new clothing,Q22C_province,0.8202793018659433,,barriers
+Girona,Low,NA,FALSE,Comparable price to new clothing,Q22C_province,0.8202793018659433,,barriers
+Lleida,Low,NA,FALSE,Comparable price to new clothing,Q22C_province,0.8202793018659433,,barriers
+Tarragona,Low,NA,FALSE,Comparable price to new clothing,Q22C_province,0.8202793018659433,,barriers
+Barcelona,Medium,NA,FALSE,Comparable price to new clothing,Q22C_province,0.8202793018659433,,barriers
+Girona,Medium,NA,FALSE,Comparable price to new clothing,Q22C_province,0.8202793018659433,,barriers
+Lleida,Medium,NA,FALSE,Comparable price to new clothing,Q22C_province,0.8202793018659433,,barriers
+Tarragona,Medium,NA,FALSE,Comparable price to new clothing,Q22C_province,0.8202793018659433,,barriers
+Man,High,NA,FALSE,Environmental scepticism,Q18_gender,0.9825099753280084,,barriers
+Woman,High,NA,FALSE,Environmental scepticism,Q18_gender,0.9825099753280084,,barriers
+Man,Low,NA,FALSE,Environmental scepticism,Q18_gender,0.9825099753280084,,barriers
+Woman,Low,NA,FALSE,Environmental scepticism,Q18_gender,0.9825099753280084,,barriers
+Man,Medium,NA,FALSE,Environmental scepticism,Q18_gender,0.9825099753280084,,barriers
+Woman,Medium,NA,FALSE,Environmental scepticism,Q18_gender,0.9825099753280084,,barriers
+16-34,High,-1.367818232095922,FALSE,Environmental scepticism,Q19_age,3.7120342823802085e-5,,barriers
+35-54,High,-1.2227659039453076,FALSE,Environmental scepticism,Q19_age,3.7120342823802085e-5,,barriers
+≥ 55,High,2.4007045131403237,TRUE,Environmental scepticism,Q19_age,3.7120342823802085e-5,*,barriers
+16-34,Low,1.5105670136341645,FALSE,Environmental scepticism,Q19_age,3.7120342823802085e-5,,barriers
+35-54,Low,0.6640077931540034,FALSE,Environmental scepticism,Q19_age,3.7120342823802085e-5,,barriers
+≥ 55,Low,-1.9322629224846064,FALSE,Environmental scepticism,Q19_age,3.7120342823802085e-5,,barriers
+16-34,Medium,-2.138437687549175,TRUE,Environmental scepticism,Q19_age,3.7120342823802085e-5,*,barriers
+35-54,Medium,-0.512776363049105,FALSE,Environmental scepticism,Q19_age,3.7120342823802085e-5,,barriers
+≥ 55,Medium,2.2878829796449716,TRUE,Environmental scepticism,Q19_age,3.7120342823802085e-5,*,barriers
+"[17,000, 36,000)",High,NA,FALSE,Environmental scepticism,Q21_annual_gross_salary,0.5429450415259348,,barriers
+"< 17,000",High,NA,FALSE,Environmental scepticism,Q21_annual_gross_salary,0.5429450415259348,,barriers
+"≥ 36,000",High,NA,FALSE,Environmental scepticism,Q21_annual_gross_salary,0.5429450415259348,,barriers
+"[17,000, 36,000)",Low,NA,FALSE,Environmental scepticism,Q21_annual_gross_salary,0.5429450415259348,,barriers
+"< 17,000",Low,NA,FALSE,Environmental scepticism,Q21_annual_gross_salary,0.5429450415259348,,barriers
+"≥ 36,000",Low,NA,FALSE,Environmental scepticism,Q21_annual_gross_salary,0.5429450415259348,,barriers
+"[17,000, 36,000)",Medium,NA,FALSE,Environmental scepticism,Q21_annual_gross_salary,0.5429450415259348,,barriers
+"< 17,000",Medium,NA,FALSE,Environmental scepticism,Q21_annual_gross_salary,0.5429450415259348,,barriers
+"≥ 36,000",Medium,NA,FALSE,Environmental scepticism,Q21_annual_gross_salary,0.5429450415259348,,barriers
+Rural,High,0.5114988167090785,FALSE,Environmental scepticism,Q22B_degurba,0.00460113334523581,,barriers
+Town and suburb,High,2.015675200039159,TRUE,Environmental scepticism,Q22B_degurba,0.00460113334523581,*,barriers
+Urban,High,-1.7984036667193133,FALSE,Environmental scepticism,Q22B_degurba,0.00460113334523581,,barriers
+Rural,Low,-0.4309950834939839,FALSE,Environmental scepticism,Q22B_degurba,0.00460113334523581,,barriers
+Town and suburb,Low,-1.3569055266512673,FALSE,Environmental scepticism,Q22B_degurba,0.00460113334523581,,barriers
+Urban,Low,1.24987803100233,FALSE,Environmental scepticism,Q22B_degurba,0.00460113334523581,,barriers
+Rural,Medium,0.5268029746499518,FALSE,Environmental scepticism,Q22B_degurba,0.00460113334523581,,barriers
+Town and suburb,Medium,1.3799194311986158,FALSE,Environmental scepticism,Q22B_degurba,0.00460113334523581,,barriers
+Urban,Medium,-1.311140664490849,FALSE,Environmental scepticism,Q22B_degurba,0.00460113334523581,,barriers
+Barcelona,High,NA,FALSE,Environmental scepticism,Q22C_province,0.12698329512680448,,barriers
+Girona,High,NA,FALSE,Environmental scepticism,Q22C_province,0.12698329512680448,,barriers
+Lleida,High,NA,FALSE,Environmental scepticism,Q22C_province,0.12698329512680448,,barriers
+Tarragona,High,NA,FALSE,Environmental scepticism,Q22C_province,0.12698329512680448,,barriers
+Barcelona,Low,NA,FALSE,Environmental scepticism,Q22C_province,0.12698329512680448,,barriers
+Girona,Low,NA,FALSE,Environmental scepticism,Q22C_province,0.12698329512680448,,barriers
+Lleida,Low,NA,FALSE,Environmental scepticism,Q22C_province,0.12698329512680448,,barriers
+Tarragona,Low,NA,FALSE,Environmental scepticism,Q22C_province,0.12698329512680448,,barriers
+Barcelona,Medium,NA,FALSE,Environmental scepticism,Q22C_province,0.12698329512680448,,barriers
+Girona,Medium,NA,FALSE,Environmental scepticism,Q22C_province,0.12698329512680448,,barriers
+Lleida,Medium,NA,FALSE,Environmental scepticism,Q22C_province,0.12698329512680448,,barriers
+Tarragona,Medium,NA,FALSE,Environmental scepticism,Q22C_province,0.12698329512680448,,barriers
+Man,High,NA,FALSE,Limited access,Q18_gender,0.35379190852767894,,barriers
+Woman,High,NA,FALSE,Limited access,Q18_gender,0.35379190852767894,,barriers
+Man,Low,NA,FALSE,Limited access,Q18_gender,0.35379190852767894,,barriers
+Woman,Low,NA,FALSE,Limited access,Q18_gender,0.35379190852767894,,barriers
+Man,Medium,NA,FALSE,Limited access,Q18_gender,0.35379190852767894,,barriers
+Woman,Medium,NA,FALSE,Limited access,Q18_gender,0.35379190852767894,,barriers
+16-34,High,NA,FALSE,Limited access,Q19_age,0.07962391099325081,,barriers
+35-54,High,NA,FALSE,Limited access,Q19_age,0.07962391099325081,,barriers
+≥ 55,High,NA,FALSE,Limited access,Q19_age,0.07962391099325081,,barriers
+16-34,Low,NA,FALSE,Limited access,Q19_age,0.07962391099325081,,barriers
+35-54,Low,NA,FALSE,Limited access,Q19_age,0.07962391099325081,,barriers
+≥ 55,Low,NA,FALSE,Limited access,Q19_age,0.07962391099325081,,barriers
+16-34,Medium,NA,FALSE,Limited access,Q19_age,0.07962391099325081,,barriers
+35-54,Medium,NA,FALSE,Limited access,Q19_age,0.07962391099325081,,barriers
+≥ 55,Medium,NA,FALSE,Limited access,Q19_age,0.07962391099325081,,barriers
+"[17,000, 36,000)",High,NA,FALSE,Limited access,Q21_annual_gross_salary,0.305893911153828,,barriers
+"< 17,000",High,NA,FALSE,Limited access,Q21_annual_gross_salary,0.305893911153828,,barriers
+"≥ 36,000",High,NA,FALSE,Limited access,Q21_annual_gross_salary,0.305893911153828,,barriers
+"[17,000, 36,000)",Low,NA,FALSE,Limited access,Q21_annual_gross_salary,0.305893911153828,,barriers
+"< 17,000",Low,NA,FALSE,Limited access,Q21_annual_gross_salary,0.305893911153828,,barriers
+"≥ 36,000",Low,NA,FALSE,Limited access,Q21_annual_gross_salary,0.305893911153828,,barriers
+"[17,000, 36,000)",Medium,NA,FALSE,Limited access,Q21_annual_gross_salary,0.305893911153828,,barriers
+"< 17,000",Medium,NA,FALSE,Limited access,Q21_annual_gross_salary,0.305893911153828,,barriers
+"≥ 36,000",Medium,NA,FALSE,Limited access,Q21_annual_gross_salary,0.305893911153828,,barriers
+Rural,High,1.8898722941294177,FALSE,Limited access,Q22B_degurba,0.00202022958591654,,barriers
+Town and suburb,High,1.686645815633647,FALSE,Limited access,Q22B_degurba,0.00202022958591654,,barriers
+Urban,High,-2.166644053843154,TRUE,Limited access,Q22B_degurba,0.00202022958591654,*,barriers
+Rural,Low,-0.6909414041337805,FALSE,Limited access,Q22B_degurba,0.00202022958591654,,barriers
+Town and suburb,Low,-0.9397577049116812,FALSE,Limited access,Q22B_degurba,0.00202022958591654,,barriers
+Urban,Low,1.0432974425548731,FALSE,Limited access,Q22B_degurba,0.00202022958591654,,barriers
+Rural,Medium,-1.2713800142235652,FALSE,Limited access,Q22B_degurba,0.00202022958591654,,barriers
+Town and suburb,Medium,-0.6940496029060466,FALSE,Limited access,Q22B_degurba,0.00202022958591654,,barriers
+Urban,Medium,1.115072205187641,FALSE,Limited access,Q22B_degurba,0.00202022958591654,,barriers
+Barcelona,High,-1.369689115104413,FALSE,Limited access,Q22C_province,0.00892778870244914,,barriers
+Girona,High,0.7990779496832485,FALSE,Limited access,Q22C_province,0.00892778870244914,,barriers
+Lleida,High,2.6528109381359943,TRUE,Limited access,Q22C_province,0.00892778870244914,**,barriers
+Tarragona,High,0.9020737726051186,FALSE,Limited access,Q22C_province,0.00892778870244914,,barriers
+Barcelona,Low,0.46490936361216584,FALSE,Limited access,Q22C_province,0.00892778870244914,,barriers
+Girona,Low,-0.04778455322141296,FALSE,Limited access,Q22C_province,0.00892778870244914,,barriers
+Lleida,Low,-0.876800396433068,FALSE,Limited access,Q22C_province,0.00892778870244914,,barriers
+Tarragona,Low,-0.5260005582711745,FALSE,Limited access,Q22C_province,0.00892778870244914,,barriers
+Barcelona,Medium,0.9703244845221408,FALSE,Limited access,Q22C_province,0.00892778870244914,,barriers
+Girona,Medium,-0.8707846268860793,FALSE,Limited access,Q22C_province,0.00892778870244914,,barriers
+Lleida,Medium,-1.9115520076167667,FALSE,Limited access,Q22C_province,0.00892778870244914,,barriers
+Tarragona,Medium,-0.33930901554237447,FALSE,Limited access,Q22C_province,0.00892778870244914,,barriers

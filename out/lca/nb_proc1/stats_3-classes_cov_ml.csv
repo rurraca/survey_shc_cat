@@ -1,0 +1,21 @@
+comparison,variable,coeff,or,p
+Profile 4 vs Profile 3,"Gender
+ (woman)","0.32 [-0.21, 0.85]","1.38 [0.81, 2.35]",0.230
+Profile 4 vs Profile 3,"Age
+ (35-54)","-0.75 [-1.43, -0.07]","0.47 [0.24, 0.93]",0.030
+Profile 4 vs Profile 3,"Age
+ (≥ 55)","-0.88 [-1.54, -0.22]","0.41 [0.21, 0.80]",0.009
+Profile 4 vs Profile 3,"DEGURBA
+ (rural)","-0.18 [-1.03, 0.68]","0.84 [0.36, 1.97]",0.685
+Profile 4 vs Profile 3,"DEGURBA
+ (town and suburb)","0.12 [-0.46, 0.69]","1.12 [0.63, 1.99]",0.693
+Profile 5 vs Profile 3,"Gender
+ (woman)","0.86 [0.35, 1.38]","2.37 [1.41, 3.97]",0.001
+Profile 5 vs Profile 3,"Age
+ (35-54)","-0.09 [-0.76, 0.58]","0.91 [0.47, 1.78]",0.786
+Profile 5 vs Profile 3,"Age
+ (≥ 55)","-0.68 [-1.38, 0.01]","0.51 [0.25, 1.01]",0.055
+Profile 5 vs Profile 3,"DEGURBA
+ (rural)","-0.68 [-1.56, 0.20]","0.51 [0.21, 1.22]",0.131
+Profile 5 vs Profile 3,"DEGURBA
+ (town and suburb)","-0.33 [-0.90, 0.24]","0.72 [0.41, 1.27]",0.255

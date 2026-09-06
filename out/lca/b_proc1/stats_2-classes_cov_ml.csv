@@ -1,0 +1,11 @@
+comparison,variable,coeff,or,p
+Profile 2 vs Profile 1,"Gender
+ (woman)","0.57 [0.01, 1.12]","1.77 [1.01, 3.08]",0.045
+Profile 2 vs Profile 1,"Age
+ (35-54)","-0.44 [-1.02, 0.14]","0.64 [0.36, 1.15]",0.134
+Profile 2 vs Profile 1,"Age
+ (≥ 55)","-0.91 [-1.68, -0.14]","0.40 [0.19, 0.87]",0.021
+Profile 2 vs Profile 1,"DEGURBA
+ (rural)","-1.01 [-2.01, -0.01]","0.36 [0.13, 0.99]",0.047
+Profile 2 vs Profile 1,"DEGURBA
+ (town and suburb)","-0.69 [-1.33, -0.04]","0.50 [0.26, 0.96]",0.037
